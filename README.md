@@ -1,6 +1,6 @@
 # LoRa to LoRa Radio Communications
 
-![](../img/lora.jpg)
+![](img/lora.jpg)
 
 Adafruit Feather M0 RFM95 is a low rage (LoRa) packet transceiver with a 900 MHz radio module. This is a great component for asset tracking (e.g. wildlife animals, pipes, sensors, buildings, etc.). 868 MHz or 915 MHz can be used for transmission/reception. We will set our radio frequency to 868 MHz in this project where the transmitting LoRa will send GPS data to the receiving LoRa. The receiver will pass the data to Raspberry Pi 3.
 
@@ -11,17 +11,17 @@ The dashboard will mainly have a map with the GPS latitude and longitude, also w
 
 ## Setup steps
 
-* Step 1 - [Hardware setup](../steps/hw.md)
-* Step 2 - [Watson IoT Platform instance setup on IBM Cloud](../steps/iot.md)
-* Step 3 - [Node-RED setup for dashboard display on IBM Cloud](../steps/nodered.md)
+* Step 1 - [Hardware setup](steps/hw.md)
+* Step 2 - [Watson IoT Platform instance setup on IBM Cloud](steps/iot.md)
+* Step 3 - [Node-RED setup for dashboard display on IBM Cloud](steps/nodered.md)
 
 <hr>
 
-![](../img/hw-laptop.jpg)
+![](img/hw-laptop.jpg)
 
 <hr>
 
-![](../img/dashboard.png)
+![](img/dashboard.png)
 
 <hr>
 
