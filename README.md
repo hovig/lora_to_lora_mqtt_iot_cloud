@@ -12,7 +12,7 @@ The Raspberry Pi 3 acts as a gateway device that will use MQTT to publish the da
 
 The dashboard will mainly have a map with the GPS latitude and longitude, also will display the speed and the temperature from that same location.
 
-Check out the post on [Medium](https://medium.com/@levanoni613/lora-to-lora-rpi-gateway-mqtt-watson-iot-platform-node-red-dashboard-b2fc473df6e2)
+Check out the post on [Medium](https://medium.com/@levanoni613/lora-to-lora-rpi-gateway-mqtt-watson-iot-platform-node-red-dashboard-b2fc473df6e2).
 
 ### Before you begin
 
@@ -21,8 +21,8 @@ Check out the post on [Medium](https://medium.com/@levanoni613/lora-to-lora-rpi-
 ## Setup steps
 
 * Step 1 - [Hardware setup](steps/hw.md)
-* Step 2 - [Watson IoT Platform instance setup on IBM Cloud](steps/iot.md)
-* Step 3 - [Node-RED setup for dashboard display on IBM Cloud](steps/nodered.md)
+* Step 2 - [Node-RED setup for dashboard display on IBM Cloud](steps/nodered.md)
+* Step 3 - [Watson IoT Platform instance setup on IBM Cloud](steps/iot.md)
 
 <hr>
 
