@@ -18,11 +18,17 @@ Check out the post on [Medium](https://medium.com/@levanoni613/lora-to-lora-rpi-
 
 * Create an IBM Cloud account if you don't have an existing one: [Sign up](https://console.ng.bluemix.net/registration/?target=/catalog/%3fcategory=watson).
 
+<hr>
+
+![](img/lora-arch.png)
+
+<hr>
+
 ## Setup steps
 
 * Step 1 - [Hardware setup](steps/hw.md)
-* Step 2 - [Node-RED setup for dashboard display on IBM Cloud](steps/nodered.md)
-* Step 3 - [Watson IoT Platform instance setup on IBM Cloud](steps/iot.md)
+* Step 2 - [Watson IoT Platform instance setup on IBM Cloud](steps/iot.md)
+* Step 3 - [Node-RED setup for dashboard display on IBM Cloud](steps/nodered.md)
 
 <hr>
 
